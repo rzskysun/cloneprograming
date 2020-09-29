@@ -22,7 +22,7 @@ public static class caculate
 		else
 			return b;
 
-	}
+	} //This is cloneprograming modify
 
 }
 
